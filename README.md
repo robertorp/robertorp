@@ -40,6 +40,7 @@
  
 ### Projetos Trabalhados
 <ul>
+ <li> 2022 - ATÉ O MOMENTO, Participação na Criação de um Sistema de Automação Comercial WEB, feito em C#/ReactJS <br>https://www.certili.com.br/</li>
  <li> 2022 - Participação na Criação de um Sistema de Automação Comercial WEB, feito em C#/ReactJS <br>https://saleflux.com.br/</li> 
  <li> 2022 - Participação na Criação de um Aplicativo IOS/Android (ReactNative), feito em C#/ReactNative <br>https://medkobe.com/</li> 
  <li> 2022 - Participação na Criação de um Sistema de Conversão de Declarações de Importação para Notas Fiscais de Entrada (WEB), feito em C#/ReactJS <br>https://app.difast.com.br/</li> 
